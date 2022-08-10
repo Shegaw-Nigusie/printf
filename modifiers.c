@@ -1,6 +1,7 @@
 /*
  * File: modifiers.c
- * Auth: shegaw
+ * Auth:  Shegaw Nigusie
+ *         Girmachew Redie
  */
 
 #include "main.h"
